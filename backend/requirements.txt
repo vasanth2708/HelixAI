@@ -1,0 +1,7 @@
+boto3
+Flask
+langchain
+langchain_community
+chromadb
+Flask-SocketIO
+psycopg2-binary
