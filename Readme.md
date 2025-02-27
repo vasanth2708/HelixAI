@@ -1,9 +1,9 @@
-**Backend** -- https://www.loom.com/share/362cfbe7fa6e4f4389a5ee5998b4de03?sid=e53c4891-d115-4e16-82ef-faaccc1d9e96
-**frontend** -- https://www.loom.com/share/dad46691f3e84aa78b43fb2aa18e9295?sid=c492fddc-cdd7-4f56-b45b-8f50adeac54b
+**Demo -** 
+
+https://www.loom.com/share/909e2972afac4cb0aa96b0b68ca67275?sid=af0f977d-93ec-4b76-9c60-ede86e3ac195
 
 
 **Future improvements could include:**
 - Handling session names more effectively rather than defaulting to "Untitled Session."
-- Enhancing the system to load both Helix’s previous messages and the user’s messages.
 - Developing a more user-friendly frontend.
-- Creating additional agents for research and validations.# HelixAI
+- Creating additional agents for research and validations.
